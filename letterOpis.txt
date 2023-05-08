@@ -1,0 +1,6 @@
+nazwa pliku: letter_frequency.csv
+opis: Ten plik CSV zawiera dane dotyczące częstotliwości występowania liter w pewnym tekście lub zbiorze tekstów. Każdy wiersz reprezentuje jedną literę, a kolumny zawierają informacje o literze, jej częstotliwości występowania i procentowym udziale w tekście.
+
+Kolumna "Letter" zawiera litery alfabetu angielskiego, a kolumna "Frequency" zawiera liczbę wystąpień każdej litery w tekście lub zbiorze tekstów. Kolumna "Percentage" zawiera procentowy udział każdej litery w tekście lub zbiorze tekstów.
+
+źródło: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html

@@ -1,0 +1,5 @@
+nazwa pliku: airtravel.csv
+
+opis:Ten plik CSV zawiera dane dotyczące liczby pasażerów linii lotniczych w poszczególnych miesiącach i latach. Kolumna "Month" zawiera nazwy miesięcy, a kolumny "1958", "1959" i "1960" zawierają liczby pasażerów, którzy podróżowali w danym miesiącu w poszczególnych latach. Na przykład w styczniu 1958 roku było 340 pasażerów, a w styczniu 1960 roku było ich 417.
+
+źródło: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html

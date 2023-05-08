@@ -1,0 +1,11 @@
+nazwa pliku: biostats.csv
+
+opis:Ten plik CSV to tablica danych zawierająca informacje o pewnej grupie osób. Każda kolumna odpowiada różnym cechom opisującym daną osobę, a każdy wiersz reprezentuje jedną osobę. Konkretnie, kolumny w tym pliku CSV to:
+
+"Name" - imię osoby,
+"Sex" - płeć osoby (M dla mężczyzny, F dla kobiety),
+"Age" - wiek osoby w latach,
+"Height (in)" - wzrost osoby w calach,
+"Weight (lbs)" - waga osoby w funtach.
+
+źródło: https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html

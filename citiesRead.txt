@@ -1,0 +1,5 @@
+nazwa pliku: cities.csv
+
+opis:Ten plik CSV zawiera informacje o geolokalizacji miast w USA. Każde miasto jest opisane za pomocą dwóch wartości liczbowych określających szerokość i długość geograficzną, zapisanej w stopniach, minutach i sekundach, a także kierunku NS (North/South) i EW (East/West). W pliku znajduje się również nazwa miasta i stan, w którym się znajduje. Każde miasto jest oddzielone od innych przecinkiem.
+
+źródło:https://people.sc.fsu.edu/~jburkardt/data/csv/csv.html
